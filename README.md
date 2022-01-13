@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JojoRavail
 - 👀 I’m interested in Machine_learning, Tennis, Mountain Climbing and Mechanics. Also trying to build my website : "myjojolab.com"
-- 🌱 I’m currently learning M_L on Coursera and Kaggle
-- 💞️ I’m looking to collaborate on M_L projects or Python projects
+- 🌱 I’m currently looking for a job as Data Analyst 
+- 💞️ I’m looking to collaborate on M_L projects, Python or ETL projects
 - 📫 How to reach me : myjojolab.com, on Linkedin or here.
 
 <!---
